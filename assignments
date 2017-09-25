@@ -1,0 +1,18 @@
+1. A field that has the Boolean of value of either true or false would make for a good shard key.
+>> a
+
+2. Which of the following statements are true regarding a very small chunk size configuration as compared to a large chunk size configuration? Check
+all that apply
+>> b,c
+
+3. How many Mongos processes should you run (generally)?
+>> e
+
+4. Which are true?
+>> a,c
+
+5. In MongoDB v2.6, by default (i.e., if shardCollection hasn't been invoked) collections are:
+>> a
+
+6 If I have 3 shards, 3 member replica sets, 3 config servers, and 6 mongos processes running, how many machines might we use for that?
+>> a,b
